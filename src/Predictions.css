@@ -1,0 +1,35 @@
+.dashboard {
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+.high-risk {
+  background-color: #ffe5e5;
+  color: #b30000;
+  font-weight: bold;
+}
+
+.medium-risk {
+  background-color: #fff8e1;
+  color: #996600;
+}
+
+.low-risk {
+  background-color: #e6f7ff;
+  color: #006699;
+}
+
+.map-section {
+  margin-top: 2rem;
