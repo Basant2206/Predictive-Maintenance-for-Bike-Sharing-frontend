@@ -32,7 +32,7 @@ function Predictions() {
 
   return (
     <div className="dashboard">
-      <h1>🚲 Predictive Maintenance for Bike Sharing Dashboard</h1>
+      <h1>Sellect Bike Id for Prediction Root</h1>
       
       <table>
         <thead>
